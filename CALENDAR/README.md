@@ -1,11 +1,5 @@
-# Calendario
-## :calendar: Um calendario usando HTML, CSS e JavaScript
-### Essa é uma aplicação web, utilizando web storage para armazenamento
+![preview](./assest/preview.png)
 
-> status: concluido ✔️
-
-> Funcionalidades: </br>
-> Dark Mode </br>
-> Agendamento de evento </br>
-> Deletar eventos ja existentes </br>
-> Navegar pelos mêses anteriores e posteriores </br>
+atividade avaliativa de TI, meu primeiro calendário 
+Nome: Andrew Souza
+sobre: ultilizei os concenitos Básicos de Back-end e Front-end sou novato nessa área ,portanto, tendo a melhorar 🤫🧏‍♂️
